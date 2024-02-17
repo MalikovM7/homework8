@@ -1,0 +1,59 @@
+Task1
+// Function: Check if a number is odd or even
+function CheckOdd(number):
+    
+    if number % 2 == 0:
+        // Number is even
+        print "Even"
+    on the other hand:
+        // The number is odd
+        print "Single"
+      End of algorithm
+
+// Example usage
+EnterNumber = // Enter a number from the user
+Result = OddEvenCheck(inputNumber)
+print "Number " + Result
+
+Task 2
+Algorithm Split(number1, number2)
+    If number1 % number2 = 0
+        Print "Print"
+    Otherwise
+        Print "Not Divided"
+    End of Algorithm
+Task 3
+Algorithm LastNumberSeven(number)
+    lastNumber = number % 10
+    If lastNumber = 7
+        Print "Yes"
+    Otherwise
+        Print "No"
+    End of Algorithm
+Task 4
+Algorithm Modes Same (number)
+    firstNumber = number / 10
+    secondNumber = number % 10
+    If firstNumber = secondNumber
+        Print "Yes"
+    Otherwise
+        Print "No"
+    End of Algorithm
+Task5
+Algorithm PairedFindProduct(number)
+    firstNumber = number / 10
+    secondNumber = number % 10
+    evenEdProduct = 1
+    sum = firstNumber + secondNumber
+    
+    If sum % 2 = 0
+        while firstNumber > 0 and secondNumber > 0
+            firstNumber lastNumber = firstNumber % 10
+            secondNumber lastNumber = secondNumber % 10
+            evenNumberProduct = evenNumberProduct * (firstNumberLastNumber * secondNumberLastNumber)
+            firstNumber = firstNumber / 10
+            secondNumber = secondNumber / 10
+        Print "Product of the digits of the number: " + doubleNumberProduct
+    Otherwise
+        Print "There is only one digit in the number"
+    End of Algorithm

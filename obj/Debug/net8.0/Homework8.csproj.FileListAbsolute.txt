@@ -1,0 +1,14 @@
+C:\Users\vuqar\Desktop\Solutions\Homework8\bin\Debug\net8.0\Homework8.exe
+C:\Users\vuqar\Desktop\Solutions\Homework8\bin\Debug\net8.0\Homework8.deps.json
+C:\Users\vuqar\Desktop\Solutions\Homework8\bin\Debug\net8.0\Homework8.runtimeconfig.json
+C:\Users\vuqar\Desktop\Solutions\Homework8\bin\Debug\net8.0\Homework8.dll
+C:\Users\vuqar\Desktop\Solutions\Homework8\bin\Debug\net8.0\Homework8.pdb
+C:\Users\vuqar\Desktop\Solutions\Homework8\obj\Debug\net8.0\Homework8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuqar\Desktop\Solutions\Homework8\obj\Debug\net8.0\Homework8.AssemblyInfoInputs.cache
+C:\Users\vuqar\Desktop\Solutions\Homework8\obj\Debug\net8.0\Homework8.AssemblyInfo.cs
+C:\Users\vuqar\Desktop\Solutions\Homework8\obj\Debug\net8.0\Homework8.csproj.CoreCompileInputs.cache
+C:\Users\vuqar\Desktop\Solutions\Homework8\obj\Debug\net8.0\Homework8.dll
+C:\Users\vuqar\Desktop\Solutions\Homework8\obj\Debug\net8.0\refint\Homework8.dll
+C:\Users\vuqar\Desktop\Solutions\Homework8\obj\Debug\net8.0\Homework8.pdb
+C:\Users\vuqar\Desktop\Solutions\Homework8\obj\Debug\net8.0\Homework8.genruntimeconfig.cache
+C:\Users\vuqar\Desktop\Solutions\Homework8\obj\Debug\net8.0\ref\Homework8.dll
